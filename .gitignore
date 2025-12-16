@@ -1,0 +1,19 @@
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+
+# Env
+.env
+
+# Build
+dist
+build
+
+# SQLite
+*.sqlite
+*.db
+
+# OS
+.DS_Store
